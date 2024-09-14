@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaretWheel1481&layout=compact)](https://github.com/ClaretWheel1481/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ClaretWheel1481" />
 </a>
